@@ -1,0 +1,7 @@
+outcome_label,unweighted,weighted
+Any Medical Debt,-0.059*** (0.008),-0.056*** (0.009)
+Borrowed/Skipped Bills,-0.063*** (0.008),-0.059*** (0.008)
+Care Refused,-0.014*** (0.004),-0.012*** (0.004)
+Catastrophic Expenditure,-0.026*** (0.004),-0.024*** (0.004)
+Total Medical Debt ($),-449.348*** (97.373),-398.627*** (118.197)
+Total OOP Spending ($),-48.238*** (10.880),-47.686*** (12.795)
