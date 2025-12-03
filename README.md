@@ -49,7 +49,7 @@ The repository is organized as follows:
   Compiled PDF of the paper, including theory, empirical strategy, results, and robustness checks.
 
 > Note: The OHIE microdata are **not included** in this repository due to data-use restrictions, but you can access the OHIE data from NBER via the Oregon Health Insurance Experiment page:  
-   <https://www.nber.org/programs-projects/projects-and-centers/oregon-health-insurance-experiment?page=1&perPage=50>.
+   <https://www.nber.org/programs-projects/projects-and-centers/oregon-health-insurance-experiment
 
 ---
 
