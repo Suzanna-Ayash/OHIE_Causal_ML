@@ -78,7 +78,7 @@ A minimal setup using `pip` might look like:
 
 ```bash
 pip install numpy pandas scipy statsmodels scikit-learn matplotlib seaborn econml jupyter
-
+```
 ## Clone
 
 To clone this repository:
@@ -86,3 +86,4 @@ To clone this repository:
 ```bash
 git clone https://github.com/Suzanna-Ayash/OHIE_Causal_ML.git
 cd OHIE_Causal_ML
+```
