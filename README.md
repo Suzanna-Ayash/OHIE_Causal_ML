@@ -53,7 +53,7 @@ The repository is organized as follows:
 
 ---
 
-## 4. Software and environment
+## 3. Software and environment
 
 The empirical analysis is implemented in **Python** using **Jupyter notebooks**.
 
@@ -79,7 +79,7 @@ A minimal setup using `pip` might look like:
 ```bash
 pip install numpy pandas scipy statsmodels scikit-learn matplotlib seaborn econml jupyter
 ```
-## Clone
+## 4. Clone
 
 To clone this repository:
 
