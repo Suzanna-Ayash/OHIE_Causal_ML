@@ -3,7 +3,7 @@
 
 This repository contains the research code and paper for the project:
 
-> **“Risk, Liquidity, and the Heterogeneous Value of Medicaid: Evidence from the Oregon Health Insurance Experiment (OHIE)”**
+> **“Risk, Liquidity, and the Heterogeneous Value of Medicaid: Evidence from the Oregon Health Insurance Experiment”**
 
 The project develops and tests a two-channel model of the value of public health insurance and brings it to the Oregon Health Insurance Experiment using modern causal machine learning (instrumental / generalized random forests).
 
@@ -49,7 +49,7 @@ The repository is organized as follows:
   Compiled PDF of the paper, including theory, empirical strategy, results, and robustness checks.
 
 > Note: The OHIE microdata are **not included** in this repository due to data-use restrictions, but you can access the OHIE data from NBER via the Oregon Health Insurance Experiment page:  
-   <https://www.nber.org/programs-projects/projects-and-centers/oregon-health-insurance-experiment
+   https://www.nber.org/programs-projects/projects-and-centers/oregon-health-insurance-experiment
 
 ---
 
